@@ -1,0 +1,8 @@
+speech_data/
+.vscode/
+speechmotionproject/Lib
+speechmotionproject/Include
+speechmotionproject/Scripts
+speechmotionproject/share
+speechmotionproject/tcl
+speechmotionproject/License.txt
