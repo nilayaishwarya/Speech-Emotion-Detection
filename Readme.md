@@ -1,4 +1,4 @@
-A notebook provides a simple way of emotion detection from voice.
+Notebook provides a simple way of emotion detection from voice.
 The sample voice data used is from raavdess data.
 The notebook utlizes following frameworks:
 librosa: detecting features from sound
